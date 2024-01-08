@@ -1,0 +1,10 @@
+LICENSE
+setup.py
+Calculator/__init__.py
+Calculator/calculator.py
+contacts.egg-info/PKG-INFO
+contacts.egg-info/SOURCES.txt
+contacts.egg-info/dependency_links.txt
+contacts.egg-info/entry_points.txt
+contacts.egg-info/requires.txt
+contacts.egg-info/top_level.txt

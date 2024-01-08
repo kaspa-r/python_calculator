@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Calculator-karutka
+Version: 0.0.1
+Summary: A calculator package used for summation, subtraction, multiplication, division and taking a root out of a stored value
+Author: Kasparas Rutkauskas
+Author-email: kasparas.r7@gmail.com
+Classifier: Intended Audience :: Learning
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+License-File: LICENSE
